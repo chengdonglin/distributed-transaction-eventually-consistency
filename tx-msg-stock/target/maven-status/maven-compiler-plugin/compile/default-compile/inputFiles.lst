@@ -1,0 +1,14 @@
+D:\java_workspace\distributed-transaction-eventually-consistency\tx-msg-stock\src\main\java\com\dmai\transaction\stock\mapper\TxLogMapper.java
+D:\java_workspace\distributed-transaction-eventually-consistency\tx-msg-stock\src\main\java\com\dmai\transaction\stock\config\CorsConfig.java
+D:\java_workspace\distributed-transaction-eventually-consistency\tx-msg-stock\src\main\java\com\dmai\transaction\stock\service\TxLogService.java
+D:\java_workspace\distributed-transaction-eventually-consistency\tx-msg-stock\src\main\java\com\dmai\transaction\stock\service\impl\TxLogServiceImpl.java
+D:\java_workspace\distributed-transaction-eventually-consistency\tx-msg-stock\src\main\java\com\dmai\transaction\stock\listener\StockTxMessageConsumer.java
+D:\java_workspace\distributed-transaction-eventually-consistency\tx-msg-stock\src\main\java\com\dmai\transaction\stock\service\impl\StockServiceImpl.java
+D:\java_workspace\distributed-transaction-eventually-consistency\tx-msg-stock\src\main\java\com\dmai\transaction\stock\config\MybatisPlusConfig.java
+D:\java_workspace\distributed-transaction-eventually-consistency\tx-msg-stock\src\main\java\com\dmai\transaction\stock\entity\TxLog.java
+D:\java_workspace\distributed-transaction-eventually-consistency\tx-msg-stock\src\main\java\com\dmai\transaction\stock\mapper\StockMapper.java
+D:\java_workspace\distributed-transaction-eventually-consistency\tx-msg-stock\src\main\java\com\dmai\transaction\stock\service\StockService.java
+D:\java_workspace\distributed-transaction-eventually-consistency\tx-msg-stock\src\main\java\com\dmai\transaction\stock\config\WebMvcConfig.java
+D:\java_workspace\distributed-transaction-eventually-consistency\tx-msg-stock\src\main\java\com\dmai\transaction\stock\bo\TxMessage.java
+D:\java_workspace\distributed-transaction-eventually-consistency\tx-msg-stock\src\main\java\com\dmai\transaction\stock\StockApplication.java
+D:\java_workspace\distributed-transaction-eventually-consistency\tx-msg-stock\src\main\java\com\dmai\transaction\stock\entity\Stock.java

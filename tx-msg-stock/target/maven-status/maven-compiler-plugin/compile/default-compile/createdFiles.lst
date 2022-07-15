@@ -1,0 +1,14 @@
+com\dmai\transaction\stock\StockApplication.class
+com\dmai\transaction\stock\service\impl\StockServiceImpl.class
+com\dmai\transaction\stock\bo\TxMessage.class
+com\dmai\transaction\stock\service\TxLogService.class
+com\dmai\transaction\stock\service\impl\TxLogServiceImpl.class
+com\dmai\transaction\stock\service\StockService.class
+com\dmai\transaction\stock\entity\TxLog.class
+com\dmai\transaction\stock\config\CorsConfig.class
+com\dmai\transaction\stock\entity\Stock.class
+com\dmai\transaction\stock\mapper\TxLogMapper.class
+com\dmai\transaction\stock\listener\StockTxMessageConsumer.class
+com\dmai\transaction\stock\config\WebMvcConfig.class
+com\dmai\transaction\stock\mapper\StockMapper.class
+com\dmai\transaction\stock\config\MybatisPlusConfig.class
